@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F76B2F&width=435&lines=im%2C+kyotosplit)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=kyotospli&show_icons=true&count_private=true&hide_border=true&title_color=ffbd59&icon_color=ffbd59&text_color=FFF&bg_color=0d1117" alt="kyoto github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=kyotosplit&show_icons=true&count_private=true&hide_border=true&title_color=ffbd59&icon_color=ffbd59&text_color=FFF&bg_color=0d1117" alt="kyoto github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyotosplit&layout=compact&hide_border=true&title_color=ffbd59&text_color=FFF&bg_color=0d1117" />
   
 [![My Skills](https://skillicons.dev/icons?i=c,nodejs,js,vscode,neovim,cpp)](https://skillicons.dev)
