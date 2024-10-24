@@ -1,16 +1,13 @@
-## Hi there 👋
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffbd59&height=120&section=header"/>
 
-<!--
-**kyotosplit/kyotosplit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F76B2F&width=435&lines=im%2C+kyotosplit)](https://git.io/typing-svg)
 
-Here are some ideas to get you started:
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=kyotospli&show_icons=true&count_private=true&hide_border=true&title_color=ffbd59&icon_color=ffbd59&text_color=FFF&bg_color=0d1117" alt="kyoto github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyotosplit&layout=compact&hide_border=true&title_color=ffbd59&text_color=FFF&bg_color=0d1117" />
+  
+[![My Skills](https://skillicons.dev/icons?i=c,nodejs,js,vscode,neovim,cpp)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kyotoplit&bg_color=0d1117&color=ffbd59&line=ffbd59&point=ffbd59&area=true&hide_border=true)
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffbd59&height=120&section=footer"/>
